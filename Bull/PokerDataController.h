@@ -10,4 +10,6 @@
 
 @interface PokerDataController : NSObject
 
+- (Hand*)setPokerValuesForHand:(Hand*)hand;
+
 @end
