@@ -10,4 +10,23 @@
 
 @implementation Card
 
+// Intialize card with passed values
+-(id)initCardWithSuite:(NSString*)suit andValue:(NSNumber*)value
+{
+    if (self == [super init]) {
+        self.suit  = suit;
+        self.value = value;
+    }
+    
+    return self;
+    
+}
+
+// Return a string representing the name of the image file
+- (NSString *)cardImageName
+{
+    return [NSString stringWithFormat:@"%@-%@", self.suit, self.value];
+}
+
+
 @end
