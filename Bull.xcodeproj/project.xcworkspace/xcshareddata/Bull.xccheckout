@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>BF509BF1-A77F-4835-890B-3BEA4AE7407D</string>
+	<string>82E53581-DDA2-4751-A4EA-DD4F121C35DB</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Bull</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>92F59213-F539-4ADA-834E-3399034CF749</key>
-		<string>https://github.com/ImCoolHigh5/Bull</string>
+		<key>88B8FB50-D357-4996-B55D-C0854E293FE4</key>
+		<string>ssh://github.com/ImCoolHigh5/Bull.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Bull.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>92F59213-F539-4ADA-834E-3399034CF749</key>
+		<key>88B8FB50-D357-4996-B55D-C0854E293FE4</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ImCoolHigh5/Bull</string>
+	<string>ssh://github.com/ImCoolHigh5/Bull.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>92F59213-F539-4ADA-834E-3399034CF749</string>
+	<string>88B8FB50-D357-4996-B55D-C0854E293FE4</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>92F59213-F539-4ADA-834E-3399034CF749</string>
+			<string>88B8FB50-D357-4996-B55D-C0854E293FE4</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Bull</string>
+			<string>Bull_Git</string>
 		</dict>
 	</array>
 </dict>

@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "Hand.h"
 
 @interface PokerDataController : NSObject
 

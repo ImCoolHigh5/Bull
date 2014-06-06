@@ -14,4 +14,22 @@
 	#import <UIKit/UIKit.h>
 	#import <Foundation/Foundation.h>
 	#import <CoreData/CoreData.h>
+
+#warning MyLog will log to console until the define is changed to 1
+#define MyLog if(0); else NSLog
+/****** ^^^^Change to 1 before Release^^^^^ ****/
+
+#pragma mark - Poker Values
+
+#define STRAIGHT_FLUSH @"SF"
+#define FOUR_OF_A_KIND @"4K"
+#define FULL_HOUSE @"FH"
+#define FLUSH @"FL"
+#define STRAIGHT @"ST"
+#define THREE_OF_A_KIND @"3K"
+#define TWO_PAIR @"2P"
+#define ONE_PAIR @"1P"
+#define HIGH_CARD @"HC"
+
+
 #endif

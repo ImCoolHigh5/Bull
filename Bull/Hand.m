@@ -10,4 +10,13 @@
 
 @implementation Hand
 
+- (int)valueOfCardAtIndex:(int)cardIndex {
+	
+	Card *cardAtIndex = [[Card alloc] init];
+	
+	cardAtIndex = self.cards[cardIndex];
+	
+	return [cardAtIndex.value intValue];
+}
+
 @end
